@@ -15,7 +15,7 @@
                 "text": "Major Appliances"
             }
         },
-        "blocks": [
+        "children": [
             "vtex.menu@2.x:submenu#major"
         ]
     },
@@ -40,7 +40,7 @@
                 "text": "Small Appliances"
             }
         },
-        "blocks": [
+        "children": [
             "vtex.menu@2.x:submenu#small"
         ]
     },
@@ -65,7 +65,7 @@
                 "text": "Eletronics"
             }
         },
-        "blocks": [
+        "children": [
             "vtex.menu@2.x:submenu#electronics"
         ]
     },
