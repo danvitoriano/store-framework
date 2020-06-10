@@ -49,17 +49,17 @@
             "orientation": "vertical"
         }
     },
-    "menu-item#eletronics": {
+    "menu-item#electronics": {
         "children": [
-            "vtex.menu@2.x:submenu#eletronics"
+            "vtex.menu@2.x:submenu#electronics"
         ]
     },
-    "vtex.menu@2.x:submenu#eletronics": {
+    "vtex.menu@2.x:submenu#electronics": {
         "children": [
-            "vtex.menu@2.x:menu#eletronics"
+            "vtex.menu@2.x:menu#electronics"
         ]
     },
-    "vtex.menu@2.x:menu#eletronics": {
+    "vtex.menu@2.x:menu#electronics": {
         "children": [
             "menu-item#cameras",
             "menu-item#laptops",
