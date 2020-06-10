@@ -10,7 +10,12 @@
         }
     },
     "menu-item#major-appliances": {
-        "children": [
+        "props":{
+            "itemProps": {
+                "text": "Major Appliances"
+            }
+        },
+        "blocks": [
             "vtex.menu@2.x:submenu#major"
         ]
     },
@@ -30,7 +35,12 @@
         }
     },
     "menu-item#small-appliances": {
-        "children": [
+        "props":{
+            "itemProps": {
+                "text": "Small Appliances"
+            }
+        },
+        "blocks": [
             "vtex.menu@2.x:submenu#small"
         ]
     },
@@ -50,7 +60,12 @@
         }
     },
     "menu-item#electronics": {
-        "children": [
+        "props":{
+            "itemProps": {
+                "text": "Eletronics"
+            }
+        },
+        "blocks": [
             "vtex.menu@2.x:submenu#electronics"
         ]
     },
