@@ -19,7 +19,9 @@
       ]
     },
     "flex-layout.col#right": {
-      "verticalAlign": "middle",
+      "props":{
+        "verticalAlign": "middle"
+      },
       "children": [
         "product-name", "product-price", "buy-button"
       ]
