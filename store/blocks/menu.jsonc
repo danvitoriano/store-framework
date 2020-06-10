@@ -10,11 +10,6 @@
         }
     },
     "menu-item#major-appliances": {
-        "props":{
-            "itemProps": {
-                "text": "Major Appliances"
-            }
-        },
         "children": [
             "vtex.menu@2.x:submenu#major"
         ]
@@ -35,11 +30,6 @@
         }
     },
     "menu-item#small-appliances": {
-        "props":{
-            "itemProps": {
-                "text": "Small Appliances"
-            }
-        },
         "children": [
             "vtex.menu@2.x:submenu#small"
         ]
@@ -60,11 +50,6 @@
         }
     },
     "menu-item#electronics": {
-        "props":{
-            "itemProps": {
-                "text": "Eletronics"
-            }
-        },
         "children": [
             "vtex.menu@2.x:submenu#electronics"
         ]
